@@ -1,0 +1,3 @@
+import java.*
+
+println{'test 123'}
